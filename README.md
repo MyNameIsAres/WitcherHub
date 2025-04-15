@@ -15,4 +15,7 @@ An easy to use GUI desktop tool created with Golang Wails to setup and manage th
    -  Create challenges / quests through the Challenge and Quest creator, featured in the WitcherHub extension
    -  Spawn monsters
    -  Spawn the viewer as a companion
+
+[![Watch a showcase video!](https://img.youtube.com/vi/p7SyDLy-aYU/0.jpg)](https://www.youtube.com/watch?v=p7SyDLy-aYU)
+
     
