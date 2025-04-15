@@ -16,7 +16,7 @@ An easy to use GUI desktop tool created with Golang Wails to setup and manage th
    -  Spawn monsters
    -  Spawn the viewer as a companion
 
-### Watch a showcaes video here:
+### Watch a showcase  video here:
 [![Watch a showcase video!](https://img.youtube.com/vi/p7SyDLy-aYU/0.jpg)](https://www.youtube.com/watch?v=p7SyDLy-aYU)
 
     
