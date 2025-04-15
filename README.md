@@ -11,8 +11,8 @@ WitcherConnect is responsible for connecting the The Witcher 3 to the outside wo
 An easy to use GUI desktop tool created with Golang Wails to setup and manage the WitcherHub bot and Twitch extension.
 
 ### A combination of different (with permission modified) The Witcher 3 mods to create the interactivity in the game. Such as:
-    * Multiplayer Gwent (extension)
-    * Create challenges / quests through the Challenge and Quest creator, featured in the WitcherHub extension
-    * Spawn monsters
-    * Spawn the viewer as a companion
+   - Multiplayer Gwent (extension)
+   -  Create challenges / quests through the Challenge and Quest creator, featured in the WitcherHub extension
+   -  Spawn monsters
+   -  Spawn the viewer as a companion
     
